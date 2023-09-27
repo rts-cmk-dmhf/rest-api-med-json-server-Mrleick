@@ -1,0 +1,389 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "navn": "Kartoffelsalat",
+      "portioner": 4,
+      "ingredienser": [
+        {
+          "navn": "Kartofler",
+          "mængde": "500g"
+        },
+        {
+          "navn": "Mayonnaise",
+          "mængde": "4 spsk"
+        },
+        {
+          "navn": "Syltede agurker",
+          "mængde": "2 stk"
+        },
+        {
+          "navn": "Løg",
+          "mængde": "1 stk"
+        },
+        {
+          "navn": "Salt",
+          "mængde": "efter smag"
+        },
+        {
+          "navn": "Sort peber",
+          "mængde": "efter smag"
+        }
+      ],
+      "trin": [
+        "Kog kartoflerne indtil de er møre, og skær dem i små terninger.",
+        "Bland kartofler, mayonnaise, syltede agurker, og løg i en skål.",
+        "Krydr med salt og sort peber efter smag.",
+        "Køl ned og server."
+      ]
+    },
+    {
+      "id": 2,
+      "navn": "Frikadeller",
+      "portioner": 4,
+      "ingredienser": [
+        {
+          "navn": "Hakket svinekød",
+          "mængde": "500g"
+        },
+        {
+          "navn": "Løg",
+          "mængde": "1 stk"
+        },
+        {
+          "navn": "Mel",
+          "mængde": "2 spsk"
+        },
+        {
+          "navn": "Mælk",
+          "mængde": "1 dl"
+        },
+        {
+          "navn": "Æg",
+          "mængde": "1 stk"
+        },
+        {
+          "navn": "Salt",
+          "mængde": "1 tsk"
+        },
+        {
+          "navn": "Peber",
+          "mængde": "1/2 tsk"
+        }
+      ],
+      "trin": [
+        "Bland svinekød, løg, mel, mælk, æg, salt og peber i en skål.",
+        "Form blandingen til små frikadeller.",
+        "Steg frikadellerne på en pande i smør eller olie indtil de er gyldne og gennemstegte.",
+        "Server med kartoffelsalat og grøntsager."
+      ]
+    },
+    {
+      "id": 3,
+      "navn": "Lasagne",
+      "portioner": 6,
+      "ingredienser": [
+        {
+          "navn": "Lasagneplader",
+          "mængde": "250g"
+        },
+        {
+          "navn": "Hakket oksekød",
+          "mængde": "500g"
+        },
+        {
+          "navn": "Løg",
+          "mængde": "1 stk, hakket"
+        },
+        {
+          "navn": "Hvidløg",
+          "mængde": "2 fed, hakket"
+        },
+        {
+          "navn": "Tomatsauce",
+          "mængde": "700ml"
+        },
+        {
+          "navn": "Mozzarellaost",
+          "mængde": "200g,"
+        },
+        {
+          "navn": "Parmesanost",
+          "mængde": "50g"
+        },
+        {
+          "navn": "Oregano",
+          "mængde": "1 tsk"
+        }
+      ],
+      "trin": [
+        "Steg hakket oksekød sammen med løg og hvidløg indtil det er brunt.",
+        "Tilsæt tomatsauce og oregano og lad det simre i 10 minutter.",
+        "Lav lag med lasagneplader, kødsauce og ost i en bageform.",
+        "Gentag lagene og slut af med ost på toppen.",
+        "Bag i ovnen ved 180°C i 30-35 minutter, indtil osten er gylden og bubblende.",
+        "Server med en grøn salat."
+      ]
+    },
+    {
+      "id": 4,
+      "navn": "Kylling Alfredo Pasta",
+      "portioner": 4,
+      "ingredienser": [
+        {
+          "navn": "Penne pasta",
+          "mængde": "350g"
+        },
+        {
+          "navn": "Kyllingebryst",
+          "mængde": "2 stk"
+        },
+        {
+          "navn": "Hvidløg",
+          "mængde": "3 fed"
+        },
+        {
+          "navn": "Fløde",
+          "mængde": "1 kop"
+        },
+        {
+          "navn": "Parmesanost",
+          "mængde": "1/2 kop"
+        },
+        {
+          "navn": "Smør",
+          "mængde": "2 spsk"
+        },
+        {
+          "navn": "Salt",
+          "mængde": "efter smag"
+        },
+        {
+          "navn": "Sort peber",
+          "mængde": "efter smag"
+        }
+      ],
+      "trin": [
+        "Kog penne pasta efter anvisning på pakken og dræn dem.",
+        "Steg kyllingestrimler i smør indtil de er gyldne og gennemstegte.",
+        "Tilsæt hvidløg og steg i et minut.",
+        "Tilsæt fløde og parmesanost og lad det simre indtil saucen tykner.",
+        "Krydr med salt og sort peber efter smag.",
+        "Bland pastaen med Alfredo-saucen og server straks."
+      ]
+    },
+    {
+      "id": 5,
+      "navn": "Rugbrødsmadder med Leverpostej",
+      "portioner": 2,
+      "ingredienser": [
+        {
+          "navn": "Rugbrød",
+          "mængde": "4 skiver"
+        },
+        {
+          "navn": "Leverpostej",
+          "mængde": "4 spsk"
+        },
+        {
+          "navn": "Rødbeder",
+          "mængde": "4 skiver"
+        },
+        {
+          "navn": "Løg",
+          "mængde": "4 skiver"
+        },
+        {
+          "navn": "Smør",
+          "mængde": "efter smag"
+        },
+        {
+          "navn": "Salt",
+          "mængde": "efter smag"
+        },
+        {
+          "navn": "Sort peber",
+          "mængde": "efter smag"
+        }
+      ],
+      "trin": [
+        "Smør leverpostej på rugbrødsskiverne.",
+        "Tilføj rødbeder og løg på toppen.",
+        "Krydr med salt og sort peber efter smag.",
+        "Server med smørrebrødsremoulade og en skive citron."
+      ]
+    },
+    {
+      "id": 6,
+      "navn": "Æblekage",
+      "portioner": 6,
+      "ingredienser": [
+        {
+          "navn": "Æbler",
+          "mængde": "4 stk"
+        },
+        {
+          "navn": "Sukker",
+          "mængde": "1/2 kop"
+        },
+        {
+          "navn": "Kanel",
+          "mængde": "1 tsk"
+        },
+        {
+          "navn": "Hvedemel",
+          "mængde": "1 kop"
+        },
+        {
+          "navn": "Smør",
+          "mængde": "1/2 kop"
+        }
+      ],
+      "trin": [
+        "Forvarm ovnen til 180°C.",
+        "Bland æbler, sukker og kanel i en smurt bageform.",
+        "I en anden skål, lav en dej ved at blande hvedemel og smør.",
+        "Fordel dejen over æblerne i bageformen.",
+        "Bag i ovnen i ca. 40 minutter, indtil toppen er gyldenbrun.",
+        "Server varm med vaniljeis eller flødeskum."
+      ]
+    },
+    {
+      "id": 7,
+      "navn": "Tomatsuppe",
+      "portioner": 4,
+      "ingredienser": [
+        {
+          "navn": "Tomater",
+          "mængde": "800g"
+        },
+        {
+          "navn": "Løg",
+          "mængde": "1 stk"
+        },
+        {
+          "navn": "Hvidløg",
+          "mængde": "2 fed"
+        },
+        {
+          "navn": "Gulerødder",
+          "mængde": "2 stk"
+        },
+        {
+          "navn": "Vegetabilsk bouillon",
+          "mængde": "1 liter"
+        },
+        {
+          "navn": "Olivenolie",
+          "mængde": "2 spsk"
+        },
+        {
+          "navn": "Tørret basilikum",
+          "mængde": "1 tsk"
+        },
+        {
+          "navn": "Salt",
+          "mængde": "efter smag"
+        },
+        {
+          "navn": "Sort peber",
+          "mængde": "efter smag"
+        }
+      ],
+      "trin": [
+        "Opvarm olivenolie i en gryde og steg løg og hvidløg indtil de er bløde.",
+        "Tilsæt gulerødder og steg i et minut.",
+        "Tilsæt hakket tomat, basilikum, bouillon, salt og sort peber.",
+        "Lad suppen simre i ca. 20 minutter.",
+        "Brug en blender eller stavblender til at blende suppen glat.",
+        "Server varm med en skive brød."
+      ]
+    },
+    {
+      "id": 8,
+      "navn": "Risengrød",
+      "portioner": 4,
+      "ingredienser": [
+        {
+          "navn": "Grødris",
+          "mængde": "1 kop"
+        },
+        {
+          "navn": "Mælk",
+          "mængde": "4 kopper"
+        },
+        {
+          "navn": "Sukker",
+          "mængde": "1/2 kop"
+        },
+        {
+          "navn": "Vaniljeekstrakt",
+          "mængde": "1 tsk"
+        },
+        {
+          "navn": "Kanel",
+          "mængde": "efter smag"
+        }
+      ],
+      "trin": [
+        "Skyl grødris i koldt vand.",
+        "Kog mælk og grødris i en stor gryde, og lad det simre i ca. 30-40 minutter under omrøring, indtil det tykner.",
+        "Tilsæt sukker og vaniljeekstrakt, og rør godt.",
+        "Server varm med et drys kanel på toppen."
+      ]
+    },
+    {
+      "id": 9,
+      "navn": "Bagt Laks med Grøntsager",
+      "portioner": 2,
+      "ingredienser": [
+        {
+          "navn": "Laksfileter",
+          "mængde": "2 stk"
+        },
+        {
+          "navn": "Broccoli",
+          "mængde": "1/2 hoved"
+        },
+        {
+          "navn": "Gulerødder",
+          "mængde": "2 stk"
+        },
+        {
+          "navn": "Citronsaft",
+          "mængde": "2 spsk"
+        },
+        {
+          "navn": "Olivenolie",
+          "mængde": "2 spsk"
+        },
+        {
+          "navn": "Salt",
+          "mængde": "efter smag"
+        },
+        {
+          "navn": "Sort peber",
+          "mængde": "efter smag"
+        }
+      ],
+      "trin": [
+        "Forvarm ovnen til 200°C.",
+        "Læg laksfileter, broccoli og gulerødder på et bagepapir i en bageform.",
+        "Dryp citronsaft og olivenolie over laksen og grøntsagerne.",
+        "Krydr med salt og sort peber efter smag.",
+        "Bag i ovnen i ca. 20 minutter, indtil laksen er gennemstegt og grøntsagerne er møre.",
+        "Server med en skive citron."
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
